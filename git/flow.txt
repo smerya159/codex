@@ -1,0 +1,13 @@
+git status
+yea fucker check the changes if git reads it
+
+git add .
+queue up changes to be uploaded
+
+git commit -m "message"
+basically choose which changes to be uploaded
+message example: "added stt" shit like that
+
+git push -M main
+rename the main branch
+used first time in setting up git afterwards you can just use git push

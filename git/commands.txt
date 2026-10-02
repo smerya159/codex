@@ -1,0 +1,15 @@
+git init
+start up a new github repo
+
+git status
+check status
+
+git remote -v
+check which github repo is connected
+
+git remote add origin (repo link)
+connect repo to github...
+
+git pull
+basically download the repo
+
