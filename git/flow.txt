@@ -11,3 +11,6 @@ message example: "added stt" shit like that
 git push -M main
 rename the main branch
 used first time in setting up git afterwards you can just use git push
+
+git push
+upload every commited thing to github
