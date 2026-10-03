@@ -1,0 +1,8 @@
+sudo system ctl reboot
+reboot 
+
+sudo shutdown -h now
+shutdown
+
+sudo systemctl suspend
+sleep

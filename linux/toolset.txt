@@ -1,0 +1,9 @@
+sudo
+gives command admin permission
+
+sudo apt install
+best to do sudo apt update before this to keep programs up to date
+download and install new tools
+
+pavucontrol
+audio control

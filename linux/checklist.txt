@@ -1,0 +1,22 @@
+[x]master file manipulation commands
+[]learn cp
+[]learn mv
+[]learn chmod
+[]learn chown
+[]docker???
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
