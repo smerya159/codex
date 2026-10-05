@@ -7,6 +7,19 @@ shutdown
 sudo systemctl suspend
 sleep
 
+systemctl status NetworkManager
+check if network manager is working
 
+sudo systemctl start NetworkManager
+start NetworkManager
 
+nmcli device wifi list
+open wifi list
 
+nm cli device wifi connect "wifi name" password "password"
+
+nmcli connection up "wifi name"
+auto connect to a past connected network
+
+nmcli connection down "wifi name"
+disconnect wifi
