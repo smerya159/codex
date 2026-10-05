@@ -8,18 +8,5 @@ sudo systemctl suspend
 sleep
 
 
-heavy update flow:
 
-sudo apt update
-sudo apt full-upgrade
-sudo apt autoremove
-sudo apt autoclean
-sudo reboot
-
-light update flow:
-
-sudo apt update
-apt list --upgradable
-sudo apt upgrade
-sudo apt autoremove
 

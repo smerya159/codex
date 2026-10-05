@@ -5,5 +5,22 @@ sudo apt install
 best to do sudo apt update before this to keep programs up to date
 download and install new tools
 
+heavy update flow:
+
+sudo apt update
+sudo apt full-upgrade
+sudo apt autoremove
+sudo apt autoclean
+sudo reboot
+
+light update flow:
+
+sudo apt update
+apt list --upgradable
+sudo apt upgrade
+sudo apt autoremove
+
+
+
 pavucontrol
 audio control
