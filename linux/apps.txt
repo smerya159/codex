@@ -1,0 +1,5 @@
+nmap
+msfconsole
+ if cant find:
+apt search metasploit
+
