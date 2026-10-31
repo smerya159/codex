@@ -7,6 +7,20 @@ shutdown
 sudo systemctl suspend
 sleep
 
+pavucontrol
+audio control
 
+xrandr --output <screen code> --brightness <brightness level max is 1>
+to find screen code run xrandr --listmonitors
+brightness control
+
+sudo nmcli device disconnect <device name>
+disconnect device to <device name>
+
+sudo nmcli device connect <device name>
+connect device to <device name>
+
+nmcli device status
+check wifi devices
 
 

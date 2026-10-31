@@ -4,6 +4,7 @@ gives command admin permission
 sudo apt install <app>
 best to do sudo apt update before this to keep programs up to date
 download and install new tools
+if install failed run sudo apt install --fix-broken install
 
 heavy update flow:
 
@@ -27,3 +28,7 @@ candidate: possible version to be installed
 
 pavucontrol
 audio control
+
+xrandr --output <screen code> --brightness <brightness level max is 1>
+to find screen code run xrandr --listmonitors
+brightness control
