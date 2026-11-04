@@ -22,11 +22,12 @@ merges current files to repo timeline
 git diff
 check files not staged by git add .
 
-git log --oneline
-check repo timeline 
 
 git pull
 fetch + merge once you already have the repo
 
+git log --oneline
+check repo timeline 
 
-
+git log --oneline --graph --decorate --all
+check repo timeline as graph with brances
