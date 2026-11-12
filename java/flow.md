@@ -15,8 +15,16 @@ java <file name>       -- run code
 
 file sample:
 
+import java.util.Scanner
+
 public class <file name> {
-	public static void (String[] args) {
-	System.out.print("hello world");
+public static void main(String[] args) {
+ 
+String reply = "asdasd"
+Scanner input = new Scanner(System.in);
+ System.out.print("hello world?");
+ reply = input.nextLine();
+System.out.println(reply);
+
 } 
 }
